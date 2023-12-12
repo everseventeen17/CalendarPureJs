@@ -62,7 +62,7 @@ body {
     height: 35px;
     display: block;
     margin-top: 10px;
-    background-image: url("../../img/button.svg");
+    background-image: url("../img/button.svg");
     background-position: center center;
     background-repeat: no-repeat;
     border: none;
